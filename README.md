@@ -1,4 +1,4 @@
-# NST-Sentiment-Analysis-Spark-Kafka
+# NST Sentiment Analysis Using Apache Spark & Kafka
 
 Real-time sentiment analysis on New Straits Times news using Apache Spark and Kafka. Compares Logistic Regression (Spark MLlib) vs LSTM (Keras) for sentiment classification in batch and streaming modes.
 
